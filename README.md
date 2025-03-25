@@ -16,7 +16,10 @@ This **interactive Annual Report Dashboard** provides in-depth insights into **c
 ![image](https://github.com/user-attachments/assets/f461b45a-6ce9-489b-b17e-f7a3cdb051da)
 
 📽 **Video Preview:**  
-[![Dashboard Video](./thumbnail.png)](./20250324-0820-19.6190940.mp4)  
+
+
+https://github.com/user-attachments/assets/30c8093a-cb7a-44cb-8860-7f0e530ca6e4
+
 
 ---
 
